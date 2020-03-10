@@ -1,13 +1,31 @@
 {
   'accounts' : [
-    0 : "",
-    1 : "Ian Swift",
-    2 : "tester",
-    69 : "Josh Duran",
-    420 : "Chris Shcembri",
-    4602 : "Kellen Bernstein",
-    8068 : "Ean Nickols",
-    7 : "Ben Tolk",
-    5 : "Sean Peterson"
+    {
+      0 : ""
+    },
+    {
+      1 : "Ian Swift"
+    },
+    {
+      2 : "tester"
+    },
+    {
+      69 : "Josh Duran"
+    },
+    {
+      420 : "Chris Shcembri"
+    },
+    {
+      4602 : "Kellen Bernstein"
+    },
+    {
+      8068 : "Ean Nickols"
+    },
+    {
+      7 : "Ben Tolk"
+    },
+    {
+      5 : "Sean Peterson"
+    }
   ]
 }
