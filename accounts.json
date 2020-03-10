@@ -1,31 +1,31 @@
 {
   'accounts' : [
     {
-      0 : ""
+      ""
     },
     {
-      1 : "Ian Swift"
+      "Ian Swift"
     },
     {
-      2 : "tester"
+      "tester"
     },
     {
-      69 : "Josh Duran"
+      "Josh Duran"
     },
     {
-      420 : "Chris Shcembri"
+      "Chris Shcembri"
     },
     {
-      4602 : "Kellen Bernstein"
+      "Kellen Bernstein"
     },
     {
-      8068 : "Ean Nickols"
+      "Ean Nickols"
     },
     {
-      7 : "Ben Tolk"
+      "Ben Tolk"
     },
     {
-      5 : "Sean Peterson"
+      "Sean Peterson"
     }
   ]
 }
